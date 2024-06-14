@@ -317,3 +317,303 @@ Swift,2017,6.75,8.50,24000,Petrol,Dealer,Manual,0
 Alto 800,2016,2.85,3.70,32000,Petrol,Individual,Manual,1
 S Cross,2018,9.00,11.00,16000,Diesel,Dealer,Manual,0
 Ritz,2013,3.20,5.50,50000,Petrol,Individual,Manual,1
+Maruti Suzuki Swift,2019,6.50,8.00,12000,Petrol,Dealer,Manual,0
+Hyundai Grand i10,2018,5.80,7.50,18000,Petrol,Dealer,Manual,0
+Honda City,2017,9.20,10.50,20000,Petrol,Dealer,Manual,0
+Toyota Innova,2016,12.50,15.00,35000,Diesel,Dealer,Manual,0
+Hyundai i20,2018,7.40,8.90,18000,Petrol,Individual,Automatic,1
+Ford Ecosport,2019,9.00,11.50,15000,Petrol,Dealer,Manual,0
+Mahindra XUV500,2017,13.00,15.75,25000,Diesel,Dealer,Manual,0
+Renault Kwid,2016,3.80,4.50,27000,Petrol,Individual,Manual,1
+Nissan Micra,2017,5.20,6.75,22000,Petrol,Dealer,Automatic,0
+Skoda Rapid,2018,8.70,10.30,19000,Diesel,Individual,Manual,1
+Volkswagen Polo,2015,5.50,6.90,32000,Petrol,Dealer,Manual,0
+Tata Nexon,2019,8.90,10.75,14000,Diesel,Dealer,Manual,0
+Maruti Suzuki S-Presso,2019,4.00,5.20,12000,Petrol,Individual,Manual,1
+Hyundai Creta,2018,11.50,13.90,16000,Petrol,Dealer,Automatic,0
+Honda Amaze,2017,6.75,8.50,20000,Petrol,Individual,Manual,1
+Mahindra Thar,2016,9.20,11.50,28000,Diesel,Dealer,Manual,0
+Toyota Fortuner,2017,27.00,32.50,25000,Diesel,Dealer,Automatic,0
+Ford Figo,2016,5.00,6.30,30000,Petrol,Individual,Manual,1
+Renault Duster,2018,8.20,10.00,18000,Diesel,Dealer,Manual,0
+Maruti Suzuki Baleno,2019,6.20,8.00,13000,Petrol,Individual,Manual,1
+Mahindra Scorpio,2017,9.50,12.00,25000,Diesel,Dealer,Manual,0
+Tata Tiago,2018,4.50,5.75,35000,Petrol,Dealer,Manual,0
+Hyundai Verna,2017,9.70,12.50,21000,Diesel,Dealer,Manual,0
+Honda WR-V,2018,7.80,9.80,19000,Diesel,Individual,Manual,1
+Toyota Etios,2016,5.80,7.50,32000,Petrol,Dealer,Manual,0
+Maruti Suzuki Vitara Brezza,2019,8.50,10.50,15000,Diesel,Dealer,Manual,0
+Ford Aspire,2017,5.70,7.20,22000,Petrol,Dealer,Manual,0
+Renault Captur,2018,9.00,11.00,18000,Diesel,Individual,Manual,1
+Volkswagen Vento,2016,7.20,9.00,28000,Diesel,Dealer,Manual,0
+Hyundai Elite i20,2017,6.50,8.20,24000,Diesel,Individual,Manual,1
+Honda Jazz,2016,6.00,7.50,30000,Petrol,Dealer,Manual,0
+Mahindra Bolero,2018,7.00,8.50,21000,Diesel,Dealer,Manual,0
+Tata Tigor,2017,4.80,6.00,26000,Petrol,Individual,Manual,1
+Maruti Suzuki Dzire,2016,5.90,7.50,28000,Petrol,Dealer,Manual,0
+Toyota Camry,2017,28.00,32.00,22000,Petrol,Dealer,Automatic,0
+Ford Endeavour,2018,24.00,28.00,19000,Diesel,Individual,Automatic,1
+Renault Lodgy,2017,7.50,9.50,25000,Diesel,Dealer,Manual,0
+Volkswagen Ameo,2016,5.20,6.50,30000,Diesel,Dealer,Manual,0
+Hyundai Santro,2019,4.20,5.50,12000,Petrol,Individual,Manual,1
+Honda WR-V,2017,7.40,9.50,22000,Petrol,Dealer,Manual,0
+Mahindra KUV100 NXT,2018,4.80,6.00,18000,Petrol,Dealer,Manual,0
+Tata Hexa,2017,12.50,15.00,20000,Diesel,Dealer,Manual,0
+Maruti Suzuki Ertiga,2016,7.00,8.50,30000,Diesel,Individual,Manual,1
+Toyota Yaris,2018,9.50,11.50,19000,Petrol,Dealer,CVT,0
+Ford EcoSport,2017,8.50,10.50,24000,Diesel,Individual,Manual,1
+Renault Triber,2019,5.50,7.50,14000,Petrol,Dealer,Manual,0
+Volkswagen Tiguan,2018,20.00,24.50,18000,Diesel,Dealer,Automatic,0
+Hyundai Aura,2020,6.50,8.50,12000,Petrol,Individual,Manual,1
+Honda CR-V,2019,28.00,32.00,10000,Diesel,Dealer,Automatic,0
+Mahindra Marazzo,2018,10.00,12.50,18000,Diesel,Individual,Manual,1
+Tata Safari,2017,14.00,17.00,22000,Diesel,Dealer,Manual,0
+Maruti Suzuki Alto,2018,2.50,3.50,40000,Petrol,Dealer,Manual,0
+Toyota Glanza,2019,6.80,8.50,14000,Petrol,Dealer,Manual,0
+Ford Mustang,2016,65.00,75.00,12000,Petrol,Dealer,Automatic,0
+Renault Scala,2017,5.20,6.50,25000,Petrol,Individual,Manual,1
+Volkswagen Passat,2018,20.00,24.00,16000,Diesel,Dealer,Automatic,0
+Hyundai Kona Electric,2019,20.00,25.00,10000,Electric,Individual,Automatic,1
+Honda Brio,2016,4.20,5.50,32000,Petrol,Dealer,Manual,0
+Mahindra Xylo,2018,8.50,10.50,20000,Diesel,Dealer,Manual,0
+Tata Harrier,2019,13.00,16.00,15000,Diesel,Individual,Manual,1
+Maruti Suzuki Ignis,2017,5.00,6.50,26000,Petrol,Dealer,Manual,0
+Toyota Corolla Altis,2018,16.00,19.00,18000,Petrol,Dealer,Automatic,0
+Ford Freestyle,2019,5.80,7.50,14000,Petrol,Individual,Manual,1
+Renault Pulse,2016,3.50,4.50,30000,Diesel,Dealer,Manual,0
+Volkswagen Polo GT,2017,8.50,10.50,22000,Petrol,Dealer,Manual,0
+Hyundai Venue,2019,8.00,10.00,12000,Petrol,Individual,Manual,1
+Honda Civic,2018,17.00,22.00,15000,Petrol,Dealer,Automatic,0
+Mahindra Verito,2016,4.50,5.75,28000,Diesel,Individual,Manual,1
+Tata Altroz,2020,6.50,8.50,10000,Petrol,Dealer,Manual,0
+Maruti Suzuki Wagon R,2018,4.50,5.75,30000,Petrol,Dealer,Manual,0
+Toyota Innova Crysta,2017,15.00,18.50,25000,Diesel,Dealer,Manual,0
+Ford Aspire,2016,5.00,6.30,28000,Diesel,Dealer,Manual,0
+Renault Kwid,2019,3.80,4.75,20000,Petrol,Individual,Manual,1
+Volkswagen Ameo,2017,5.50,7.00,24000,Diesel,Dealer,Manual,0
+Hyundai Santro Xing,2016,3.50,4.50,32000,Petrol,Individual,Manual,1
+Honda WR-V,2019,8.00,10.00,16000,Diesel,Dealer,Manual,0
+Mahindra Scorpio,2018,11.00,13.50,18000,Diesel,Dealer,Manual,0
+Tata Tiago NRG,2019,4.80,6.00,14000,Petrol,Dealer,Manual,0
+Maruti Suzuki Ciaz,2017,8.50,10.50,22000,Diesel,Individual,Manual,1
+Toyota Fortuner,2016,23.00,28.00,30000,Diesel,Dealer,Automatic,0
+Ford EcoSport,2018,9.00,11.50,20000,Petrol,Dealer,Manual,0
+Renault Duster,2017,7.50,9.50,25000,Petrol,Dealer,Manual,0
+Volkswagen Vento,2018,8.00,10.00,19000,Diesel,Individual,Manual,1
+Hyundai Elite i20,2016,6.00,7.50,27000,Petrol,Dealer,Manual,0
+Honda Jazz,2018,6.80,8.50,18000,Petrol,Dealer,Manual,0
+Mahindra Bolero,2017,7.00,8.50,22000,Diesel,Dealer,Manual,0
+Tata Tigor,2019,5.00,6.25,16000,Petrol,Individual,Manual,1
+Maruti Suzuki Dzire,2018,6.50,8.20,20000,Petrol,Dealer,Manual,0
+Toyota Camry,2016,25.00,30.00,25000,Petrol,Dealer,Automatic,0
+Ford Endeavour,2017,22.00,27.00,28000,Diesel,Dealer,Automatic,0
+Renault Lodgy,2018,8.00,10.00,19000,Diesel,Individual,Manual,1
+Volkswagen Polo,2017,7.00,9.00,26000,Diesel,Dealer,Manual,0
+Hyundai Santro,2018,4.00,5.25,22000,Petrol,Individual,Manual,1
+Honda WR-V,2016,7.00,8.75,24000,Petrol,Dealer,Manual,0
+Mahindra KUV100 NXT,2017,4.50,5.75,30000,Diesel,Dealer,Manual,0
+Tata Hexa,2018,13.50,17.00,18000,Diesel,Individual,Manual,1
+Maruti Suzuki Ertiga,2017,8.00,9.50,22000,Petrol,Dealer,Manual,0
+Toyota Yaris,2019,10.00,12.50,16000,Petrol,Dealer,CVT,0
+Ford EcoSport,2016,8.00,10.00,28000,Diesel,Dealer,Manual,0
+Renault Triber,2020,5.80,7.50,12000,Petrol,Dealer,Manual,0
+Volkswagen Tiguan,2019,22.00,27.00,15000,Diesel,Individual,Automatic,1
+Hyundai Aura,2021,7.00,9.00,10000,Petrol,Dealer,Manual,0
+Honda CR-V,2020,30.00,35.00,8000,Diesel,Dealer,Automatic,0
+Mahindra Marazzo,2019,11.00,13.50,16000,Diesel,Dealer,Manual,0
+Tata Safari,2018,16.00,19.50,18000,Diesel,Dealer,Manual,0
+Maruti Suzuki Alto,2019,3.00,4.00,30000,Petrol,Individual,Manual,1
+Toyota Glanza,2020,7.00,9.00,12000,Petrol,Dealer,Manual,0
+Ford Mustang,2017,70.00,80.00,10000,Petrol,Dealer,Automatic,0
+Renault Scala,2018,6.00,7.50,22000,Petrol,Individual,Manual,1
+Volkswagen Passat,2019,25.00,30.00,14000,Diesel,Dealer,Automatic,0
+Hyundai Kona Electric,2020,22.00,28.00,8000,Electric,Individual,Automatic,1
+Honda Brio,2017,4.50,5.75,28000,Petrol,Dealer,Manual,0
+Mahindra Xylo,2019,9.00,11.00,16000,Diesel,Dealer,Manual,0
+Tata Harrier,2020,14.00,17.00,12000,Diesel,Individual,Manual,1
+Maruti Suzuki Ignis,2018,5.50,7.00,24000,Petrol,Dealer,Manual,0
+Toyota Corolla Altis,2019,18.00,22.00,16000,Petrol,Dealer,Automatic,0
+Ford Freestyle,2020,6.00,7.50,10000,Petrol,Individual,Manual,1
+Renault Pulse,2017,3.80,4.75,28000,Diesel,Dealer,Manual,0
+Volkswagen Polo GT,2018,9.00,11.00,20000,Petrol,Dealer,Manual,0
+Hyundai Venue,2020,9.00,11.50,12000,Petrol,Dealer,Manual,0
+Honda Civic,2019,18.00,24.00,12000,Petrol,Dealer,Automatic,0
+Mahindra Verito,2017,5.50,7.00,26000,Diesel,Individual,Manual,1
+Tata Altroz,2021,6.80,8.50,8000,Petrol,Dealer,Manual,0
+Maruti Suzuki Wagon R,2019,5.00,6.50,22000,Petrol,Dealer,Manual,0
+Toyota Innova Crysta,2018,16.00,20.00,24000,Diesel,Dealer,Manual,0
+Ford Aspire,2017,4.80,6.00,28000,Diesel,Dealer,Manual,0
+Renault Kwid,2020,4.00,5.20,12000,Petrol,Individual,Manual,1
+Volkswagen Ameo,2018,5.80,7.50,22000,Diesel,Dealer,Manual,0
+Hyundai Santro Xing,2017,3.80,4.75,28000,Petrol,Individual,Manual,1
+Honda WR-V,2020,8.50,10.50,10000,Diesel,Dealer,Manual,0
+Mahindra Scorpio,2019,12.00,14.50,14000,Diesel,Dealer,Manual,0
+Tata Tiago NRG,2020,5.20,6.50,16000,Petrol,Dealer,Manual,0
+Maruti Suzuki Ciaz,2018,9.00,11.50,20000,Diesel,Individual,Manual,1
+Toyota Fortuner,2017,24.00,30.00,28000,Diesel,Dealer,Automatic,0
+Ford EcoSport,2019,10.00,12.50,18000,Petrol,Dealer,Manual,0
+Renault Duster,2018,8.50,10.50,19000,Petrol,Dealer,Manual,0
+Volkswagen Vento,2017,7.50,9.50,26000,Diesel,Individual,Manual,1
+Hyundai Elite i20,2019,7.00,8.75,17000,Petrol,Dealer,Manual,0
+Honda Jazz,2017,7.00,8.75,19000,Petrol,Dealer,Manual,0
+Mahindra Bolero,2018,8.00,10.00,22000,Diesel,Dealer,Manual,0
+Tata Tigor,2020,5.50,7.00,14000,Petrol,Individual,Manual,1
+Maruti Suzuki Dzire,2019,7.50,9.50,17000,Petrol,Dealer,Manual,0
+Toyota Camry,2018,30.00,35.00,18000,Petrol,Dealer,Automatic,0
+Ford Endeavour,2019,25.00,30.00,22000,Diesel,Dealer,Automatic,0
+Renault Lodgy,2018,8.50,11.00,20000,Diesel,Individual,Manual,1
+Volkswagen Polo,2018,7.50,9.50,22000,Diesel,Dealer,Manual,0
+Hyundai Santro,2019,4.20,5.50,16000,Petrol,Individual,Manual,1
+Honda WR-V,2017,7.50,9.50,24000,Petrol,Dealer,Manual,0
+Mahindra KUV100 NXT,2018,4.80,6.00,28000,Diesel,Dealer,Manual,0
+Tata Hexa,2019,14.00,17.00,14000,Diesel,Individual,Manual,1
+Maruti Suzuki Ertiga,2018,8.50,10.50,18000,Petrol,Dealer,Manual,0
+Toyota Yaris,2020,11.00,13.50,12000,Petrol,Dealer,CVT,0
+Ford EcoSport,2020,9.50,12.00,16000,Diesel,Dealer,Manual,0
+Renault Triber,2021,6.00,8.00,10000,Petrol,Dealer,Manual,0
+Volkswagen Tiguan,2020,24.00,28.00,12000,Diesel,Individual,Automatic,1
+Hyundai Aura,2022,7.50,9.50,8000,Petrol,Dealer,Manual,0
+Honda CR-V,2021,32.00,38.00,6000,Diesel,Dealer,Automatic,0
+Mahindra Marazzo,2020,12.00,15.00,14000,Diesel,Dealer,Manual,0
+Tata Safari,2019,18.00,22.00,16000,Diesel,Dealer,Manual,0
+Maruti Suzuki Alto,2020,3.20,4.20,25000,Petrol,Individual,Manual,1
+Toyota Glanza,2021,7.50,9.50,10000,Petrol,Dealer,Manual,0
+Ford Mustang,2018,75.00,85.00,8000,Petrol,Dealer,Automatic,0
+Renault Scala,2019,6.50,8.00,18000,Petrol,Individual,Manual,1
+Volkswagen Passat,2020,28.00,34.00,10000,Diesel,Dealer,Automatic,0
+Hyundai Kona Electric,2021,25.00,30.00,6000,Electric,Individual,Automatic,1
+Honda Brio,2018,5.00,6.50,22000,Petrol,Dealer,Manual,0
+Mahindra Xylo,2020,9.50,11.50,14000,Diesel,Dealer,Manual,0
+Tata Harrier,2021,15.00,18.00,10000,Diesel,Individual,Manual,1
+Maruti Suzuki Ignis,2019,6.00,7.50,20000,Petrol,Dealer,Manual,0
+Toyota Corolla Altis,2020,20.00,25.00,12000,Petrol,Dealer,Automatic,0
+Ford Freestyle,2021,6.50,8.50,8000,Petrol,Individual,Manual,1
+Renault Pulse,2018,4.00,5.00,26000,Diesel,Dealer,Manual,0
+Volkswagen Polo GT,2019,10.00,12.50,18000,Petrol,Dealer,Manual,0
+Hyundai Venue,2021,10.50,13.00,10000,Petrol,Dealer,Manual,0
+Honda Civic,2020,20.00,25.00,10000,Petrol,Dealer,Automatic,0
+Mahindra Verito,2018,5.00,6.50,24000,Diesel,Individual,Manual,1
+Tata Altroz,2022,7.50,9.50,6000,Petrol,Dealer,Manual,0
+Maruti Suzuki Wagon R,2020,5.50,7.00,18000,Petrol,Dealer,Manual,0
+Toyota Innova Crysta,2019,18.00,22.00,22000,Diesel,Dealer,Manual,0
+Ford Aspire,2018,5.50,7.00,26000,Diesel,Dealer,Manual,0
+Renault Kwid,2021,4.20,5.50,10000,Petrol,Individual,Manual,1
+Volkswagen Ameo,2019,6.00,7.50,18000,Diesel,Dealer,Manual,0
+Hyundai Santro Xing,2018,4.00,5.25,22000,Petrol,Individual,Manual,1
+Honda WR-V,2018,8.50,10.50,14000,Petrol,Dealer,Manual,0
+Mahindra Scorpio,2020,13.00,15.50,12000,Diesel,Dealer,Manual,0
+Tata Tiago NRG,2021,5.50,7.00,8000,Petrol,Dealer,Manual,0
+Maruti Suzuki Ciaz,2019,10.00,12.50,16000,Diesel,Individual,Manual,1
+Toyota Fortuner,2018,28.00,34.00,24000,Diesel,Dealer,Automatic,0
+Ford EcoSport,2021,10.50,13.00,16000,Petrol,Dealer,Manual,0
+Renault Duster,2019,9.00,11.50,18000,Petrol,Dealer,Manual,0
+Volkswagen Vento,2018,8.00,10.00,17000,Diesel,Individual,Manual,1
+Hyundai Elite i20,2020,8.00,10.00,14000,Petrol,Dealer,Manual,0
+Honda Jazz,2019,7.50,9.50,16000,Petrol,Dealer,Manual,0
+Mahindra Bolero,2019,8.50,10.50,18000,Diesel,Dealer,Manual,0
+Tata Tigor,2021,6.00,7.50,10000,Petrol,Individual,Manual,1
+Maruti Suzuki Dzire,2020,8.00,10.00,14000,Petrol,Dealer,Manual,0
+Toyota Camry,2019,32.00,38.00,16000,Petrol,Dealer,Automatic,0
+Ford Endeavour,2020,28.00,33.00,20000,Diesel,Dealer,Automatic,0
+Renault Lodgy,2019,9.00,11.50,16000,Diesel,Individual,Manual,1
+Volkswagen Polo,2019,8.00,10.00,18000,Diesel,Dealer,Manual,0
+Hyundai Santro,2020,4.50,5.75,12000,Petrol,Individual,Manual,1
+Honda WR-V,2019,9.00,11.50,14000,Petrol,Dealer,Manual,0
+Mahindra KUV100 NXT,2020,5.00,6.50,16000,Diesel,Dealer,Manual,0
+Tata Hexa,2021,15.00,18.50,10000,Diesel,Individual,Manual,1
+Maruti Suzuki Ertiga,2019,9.50,12.00,16000,Petrol,Dealer,Manual,0
+Toyota Yaris,2021,11.50,14.00,12000,Petrol,Dealer,CVT,0
+Ford EcoSport,2022,12.00,15.00,10000,Diesel,Dealer,Manual,0
+Renault Triber,2022,7.00,9.00,8000,Petrol,Dealer,Manual,0
+Volkswagen Tiguan,2021,26.00,32.00,10000,Diesel,Individual,Automatic,1
+Hyundai Aura,2023,8.00,10.00,6000,Petrol,Dealer,Manual,0
+Honda CR-V,2022,35.00,42.00,4000,Diesel,Dealer,Automatic,0
+Mahindra Marazzo,2021,13.00,16.50,12000,Diesel,Dealer,Manual,0
+Tata Safari,2020,20.00,25.00,14000,Diesel,Dealer,Manual,0
+Maruti Suzuki Alto,2021,3.80,4.75,22000,Petrol,Individual,Manual,1
+Toyota Glanza,2022,8.50,10.50,8000,Petrol,Dealer,Manual,0
+Ford Mustang,2019,80.00,90.00,6000,Petrol,Dealer,Automatic,0
+Renault Scala,2020,7.00,8.50,16000,Petrol,Individual,Manual,1
+Volkswagen Passat,2021,30.00,36.00,8000,Diesel,Dealer,Automatic,0
+Hyundai Kona Electric,2022,28.00,34.00,4000,Electric,Individual,Automatic,1
+Honda Brio,2019,5.50,7.00,18000,Petrol,Dealer,Manual,0
+Mahindra Xylo,2021,10.00,12.50,10000,Diesel,Dealer,Manual,0
+Tata Harrier,2022,16.00,19.00,6000,Diesel,Individual,Manual,1
+Maruti Suzuki Ignis,2020,7.00,8.50,16000,Petrol,Dealer,Manual,0
+Toyota Corolla Altis,2021,22.00,27.00,10000,Petrol,Dealer,Automatic,0
+Ford Freestyle,2022,7.50,9.50,6000,Petrol,Individual,Manual,1
+Renault Pulse,2019,4.50,5.50,24000,Diesel,Dealer,Manual,0
+Volkswagen Polo GT,2020,11.00,13.50,16000,Petrol,Dealer,Manual,0
+Hyundai Venue,2022,11.50,14.00,8000,Petrol,Dealer,Manual,0
+Honda Civic,2021,22.00,28.00,8000,Petrol,Dealer,Automatic,0
+Mahindra Verito,2019,6.00,8.00,22000,Diesel,Individual,Manual,1
+Tata Altroz,2023,8.50,10.50,4000,Petrol,Dealer,Manual,0
+Maruti Suzuki Wagon R,2021,6.00,7.50,16000,Petrol,Dealer,Manual,0
+Toyota Innova Crysta,2020,20.00,25.00,18000,Diesel,Dealer,Manual,0
+Ford Aspire,2019,6.50,8.50,20000,Diesel,Dealer,Manual,0
+Renault Kwid,2022,4.50,5.50,8000,Petrol,Individual,Manual,1
+Volkswagen Ameo,2020,6.50,8.50,16000,Diesel,Dealer,Manual,0
+Hyundai Santro Xing,2019,3.60,4.50,20000,Petrol,Individual,Manual,1
+Honda WR-V,2020,9.50,11.50,12000,Petrol,Dealer,Manual,0
+Mahindra Scorpio,2021,15.00,18.00,10000,Diesel,Dealer,Manual,0
+Tata Tiago NRG,2022,6.00,7.50,6000,Petrol,Dealer,Manual,0
+Maruti Suzuki Ciaz,2020,10.50,13.50,14000,Diesel,Individual,Manual,1
+Toyota Fortuner,2019,34.00,42.00,20000,Diesel,Dealer,Automatic,0
+Ford EcoSport,2023,13.00,16.50,12000,Petrol,Dealer,Manual,0
+Renault Duster,2020,10.50,13.50,14000,Petrol,Dealer,Manual,0
+Volkswagen Vento,2019,9.00,11.50,16000,Diesel,Individual,Manual,1
+Hyundai Elite i20,2021,8.50,10.50,8000,Petrol,Dealer,Manual,0
+Honda Jazz,2020,8.00,10.00,10000,Petrol,Dealer,Manual,0
+Mahindra Bolero,2020,10.00,12.50,12000,Diesel,Dealer,Manual,0
+Tata Tigor,2022,6.50,8.50,6000,Petrol,Individual,Manual,1
+Maruti Suzuki Dzire,2021,8.50,11.00,10000,Petrol,Dealer,Manual,0
+Toyota Camry,2020,38.00,45.00,8000,Petrol,Dealer,Automatic,0
+Ford Endeavour,2021,35.00,42.00,14000,Diesel,Dealer,Automatic,0
+Renault Lodgy,2020,10.00,12.50,12000,Diesel,Individual,Manual,1
+Volkswagen Polo,2021,9.00,11.50,12000,Diesel,Dealer,Manual,0
+Hyundai Santro,2021,4.80,6.00,6000,Petrol,Individual,Manual,1
+Honda WR-V,2021,10.00,13.00,10000,Petrol,Dealer,Manual,0
+Mahindra KUV100 NXT,2021,5.50,7.00,12000,Diesel,Dealer,Manual,0
+Tata Hexa,2022,18.00,22.00,6000,Diesel,Individual,Manual,1
+Maruti Suzuki Ertiga,2020,11.00,13.50,12000,Petrol,Dealer,Manual,0
+Toyota Yaris,2022,12.50,16.00,8000,Petrol,Dealer,CVT,0
+Ford EcoSport,2024,16.50,21.00,4000,Diesel,Dealer,Manual,0
+Renault Triber,2023,9.00,11.50,6000,Petrol,Dealer,Manual,0
+Volkswagen Tiguan,2022,30.00,36.00,6000,Diesel,Individual,Automatic,1
+Hyundai Aura,2024,10.50,13.00,4000,Petrol,Dealer,Manual,0
+Honda CR-V,2023,45.00,52.00,2000,Diesel,Dealer,Automatic,0
+Mahindra Marazzo,2022,15.00,19.00,8000,Diesel,Dealer,Manual,0
+Tata Safari,2021,24.00,30.00,10000,Diesel,Dealer,Manual,0
+Maruti Suzuki Alto,2022,5.00,7.00,8000,Petrol,Individual,Manual,1
+Toyota Glanza,2023,9.50,11.50,4000,Petrol,Dealer,Manual,0
+Ford Mustang,2020,85.00,95.00,2000,Petrol,Dealer,Automatic,0
+Renault Scala,2021,7.50,9.50,12000,Petrol,Individual,Manual,1
+Volkswagen Passat,2022,32.00,38.00,4000,Diesel,Dealer,Automatic,0
+Hyundai Kona Electric,2023,30.00,35.00,2000,Electric,Individual,Automatic,1
+Honda Brio,2020,6.00,7.50,10000,Petrol,Dealer,Manual,0
+Mahindra Xylo,2022,12.50,16.00,8000,Diesel,Dealer,Manual,0
+Tata Harrier,2023,18.00,21.00,4000,Diesel,Individual,Manual,1
+Maruti Suzuki Ignis,2021,8.00,10.00,8000,Petrol,Dealer,Manual,0
+Toyota Corolla Altis,2022,24.00,30.00,4000,Petrol,Dealer,Automatic,0
+Ford Freestyle,2023,9.00,11.50,4000,Petrol,Individual,Manual,1
+Renault Pulse,2020,5.00,6.50,20000,Diesel,Dealer,Manual,0
+Volkswagen Polo GT,2021,12.50,16.00,12000,Petrol,Dealer,Manual,0
+Hyundai Venue,2023,13.00,16.50,4000,Petrol,Dealer,Manual,0
+Honda Civic,2022,25.00,32.00,4000,Petrol,Dealer,Automatic,0
+Mahindra Verito,2020,6.50,8.50,18000,Diesel,Individual,Manual,1
+Tata Altroz,2024,10.00,12.50,2000,Petrol,Dealer,Manual,0
+Maruti Suzuki Wagon R,2022,7.50,9.50,12000,Petrol,Dealer,Manual,0
+Toyota Innova Crysta,2021,24.00,28.00,8000,Diesel,Dealer,Manual,0
+Ford Aspire,2020,7.00,9.00,18000,Diesel,Dealer,Manual,0
+Renault Kwid,2023,5.00,6.50,4000,Petrol,Individual,Manual,1
+Volkswagen Ameo,2021,7.00,8.50,12000,Diesel,Dealer,Manual,0
+Hyundai Santro Xing,2020,3.75,4.50,18000,Petrol,Individual,Manual,1
+Honda WR-V,2021,10.50,13.50,8000,Petrol,Dealer,Manual,0
+Mahindra Scorpio,2022,16.50,20.00,6000,Diesel,Dealer,Manual,0
+Tata Tiago NRG,2023,6.50,8.50,4000,Petrol,Dealer,Manual,0
+Maruti Suzuki Ciaz,2021,12.50,16.00,10000,Diesel,Individual,Manual,1
+Toyota Fortuner,2020,38.00,46.00,16000,Diesel,Dealer,Automatic,0
+Ford EcoSport,2024,17.00,21.00,6000,Petrol,Dealer,Manual,0
+Renault Duster,2021,12.50,15.50,10000,Petrol,Dealer,Manual,0
+Volkswagen Vento,2020,10.50,13.50,12000,Diesel,Individual,Manual,1
+Hyundai Elite i20,2022,10.50,13.00,6000,Petrol,Dealer,Manual,0
